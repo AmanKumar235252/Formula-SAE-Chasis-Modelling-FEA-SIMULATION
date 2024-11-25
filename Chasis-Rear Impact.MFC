@@ -1,0 +1,18 @@
+[StartTime]
+Chasis-Rear Impact.MFC=1s
+[SolverState]
+Chasis-Rear Impact.MFC=2
+[MainFrame]
+Chasis-Rear Impact.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPKJBAAAAAAAAAAAAACADAAAAAMCCAAAAA
+[ShowMin]
+Chasis-Rear Impact.MFC=No
+[SolverType]
+Chasis-Rear Impact.MFC=Linear Analysis
+[StudyType]
+Chasis-Rear Impact.MFC=0
+[StudyName]
+Chasis-Rear Impact.MFC=ÿþR
+[Solver]
+Chasis-Rear Impact.MFC=Sparse
+[StudyName1]
+RunAllStudy=ÿþR

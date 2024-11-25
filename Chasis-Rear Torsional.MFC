@@ -1,0 +1,16 @@
+[StartTime]
+Chasis-Rear Torsional.MFC=
+[SolverState]
+Chasis-Rear Torsional.MFC=2
+[MainFrame]
+Chasis-Rear Torsional.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Chasis-Rear Torsional.MFC=No
+[SolverType]
+Chasis-Rear Torsional.MFC=Linear Analysis
+[StudyType]
+Chasis-Rear Torsional.MFC=0
+[StudyName]
+Chasis-Rear Torsional.MFC=Rear Torsional
+[Solver]
+Chasis-Rear Torsional.MFC=Sparse

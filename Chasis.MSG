@@ -1,0 +1,8 @@
+Start study: Front impact analysis 11 October 2024 09:32:09
+End study: Front impact analysis 11 October 2024 09:32:13
+Start study: Rear Impact 11 October 2024 09:32:14
+End study: Rear Impact 11 October 2024 09:32:18
+Start study: Side impact 11 October 2024 09:32:20
+End study: Side impact 11 October 2024 09:32:24
+Start study: Front Tosional 11 October 2024 09:32:26
+End study: Front Tosional 11 October 2024 09:32:30
